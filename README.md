@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+
 # Golomb-coding
 The Golomb coding is a form of parameterized coding in which integers to be coded are stored as values relative to a constant b.
 A positive integer x is represented in two parts:
